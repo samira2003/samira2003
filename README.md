@@ -27,7 +27,17 @@
 
 ## 🧰 Tech Stack
 
-**Languages:** Python • Java • JavaScript • SQL  
+### 💻 Programming Languages
+- Python  
+- Java  
+- JavaScript  
+- SQL  
+- C  
+- C#  
+- Assembly  
+- HTML  
+- CSS
+
 **AI/ML:** PyTorch • Deep Learning • Computer Vision  
 **Tools:** Git/GitHub • VS Code • Unity • Linux/Windows
 
