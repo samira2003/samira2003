@@ -1,98 +1,79 @@
-# 👋 Hi, I'm Samira Swalha
+<h1 align="center">Hi 👋, I'm Samira Swalha</h1>
+<h3 align="center">B.Sc. in Computer Science & Mathematics — First Class Honors</h3>
+<p align="center">
+  AI & ML Enthusiast • Software Developer • Computer Vision
+</p>
 
-🎓 Computer Science Student | 💻 Software Developer | 🤖 AI & ML Enthusiast  
-
-Welcome to my GitHub profile!  
-I'm a passionate computer science student with strong interest in **Artificial Intelligence, Computer Vision, and Software Development**.  
-I enjoy building real-world projects and constantly improving my technical skills.
+<p align="center">
+  <a href="https://github.com/samira2003">
+    <img src="https://img.shields.io/badge/GitHub-samira2003-black?style=for-the-badge&logo=github" />
+  </a>
+  <!-- Add LinkedIn when ready -->
+  <!-- <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a> -->
+</p>
 
 ---
 
-## 🧠 About Me
+## 👩‍💻 About Me
 
-- 🎓 Final-year Computer Science student  
-- 💡 Interested in **AI, Machine Learning, Computer Vision & Web Development**
-- 🧪 Worked on projects using **Python, OpenCV, PyTorch, React, Java**
-- 🏗️ Experience in academic & real-world projects
-- 📊 Strong background in problem solving and system design
-- 🌱 Always learning new technologies
+- 🎓 **Graduate** in **Computer Science & Mathematics (First Class Honors)**
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning, and Computer Vision**
+- 🧠 Strong in **problem-solving**, **system design**, and **clean code**
+- 🚀 Always learning and building real-world projects
+
+---
+
+## 🧰 Tech Stack
+
+**Languages:** Python • Java • JavaScript • SQL  
+**AI/ML:** PyTorch • Deep Learning • Computer Vision  
+**Tools:** Git/GitHub • VS Code • Unity • Linux/Windows
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🎭 Face Analytics Emotion Hub
-A smart system for face detection and emotion recognition using computer vision and deep learning.
+AI system for **face detection** and **emotion recognition** using computer vision and deep learning.
 
-**Technologies:**
-- Python
-- OpenCV
-- Deep Learning (CNN)
-- Emotion Classification
-
-🔗 Repository:  
-👉 https://github.com/samira2003/Face-Analytics-Emotion-Hub
+- **Tech:** Python, OpenCV, CNN
+- **Repo:** https://github.com/samira2003/Face-Analytics-Emotion-Hub
 
 ---
 
 ### 🚗 Autonomous Parking System
-A reinforcement learning based system for autonomous vehicle parking.
+Reinforcement learning based system for **autonomous vehicle parking** (graduation project).
 
-**Technologies:**
-- Python
-- Reinforcement Learning
-- Unity ML-Agents
-- Computer Vision
+- **Tech:** Python, Reinforcement Learning, Unity ML-Agents, Computer Vision
 
 ---
 
 ### 💼 Job Finder System
-A platform for students to find jobs and manage applications.
+A platform to help students **find jobs**, manage applications, and support role-based authentication.
 
-**Technologies:**
-- Java
-- SQL
-- Backend System Design
-- Authentication & Role Management
-
----
-
-## 🛠️ Skills
-
-**Programming Languages**
-- Python
-- Java
-- JavaScript
-- SQL
-
-**Technologies & Tools**
-- OpenCV
-- PyTorch
-- Git & GitHub
-- VS Code
-- Unity
-- Linux / Windows
-
-**Fields**
-- Artificial Intelligence
-- Machine Learning
-- Computer Vision
-- Software Engineering
+- **Tech:** Java, SQL, Backend Architecture, Authentication
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samira2003&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samira2003&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samira2003&layout=compact&theme=tokyonight" height="160" />
+</p>
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
-- 💼 GitHub: https://github.com/samira2003  
-- 📧 Email: *(add if you want)*  
-- 🔗 LinkedIn: *(optional)*  
+- GitHub: https://github.com/samira2003  
+- Email: *(add your email here if you want)*  
+- LinkedIn: *(add your LinkedIn link here)*  
 
 ---
 
-✨ *Always learning. Always building. Always improving.*
+<p align="center">
+  ✨ <i>Driven by curiosity. Built with purpose. Always improving.</i> ✨
+</p>
