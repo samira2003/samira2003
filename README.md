@@ -79,8 +79,8 @@ A platform to help students **find jobs**, manage applications, and support role
 ## 📫 Contact
 
 - GitHub: https://github.com/samira2003  
-- Email: *(add your email here if you want)*  
-- LinkedIn: *(add your LinkedIn link here)*  
+- Email: samira.swalha@gmail.com  
+- LinkedIn: www.linkedin.com/in/samira-swalha-10b57a35a/ 
 
 ---
 
