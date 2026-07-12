@@ -53,12 +53,6 @@ AI system for **face detection** and **emotion recognition** using computer visi
 
 ---
 
-### 🚗 Autonomous Parking System
-Reinforcement learning based system for **autonomous vehicle parking** (graduation project).
-
-- **Tech:** Python, Reinforcement Learning, Unity ML-Agents, Computer Vision
-
----
 
 ### 💼 Job Finder System
 A platform to help students **find jobs**, manage applications, and support role-based authentication.
